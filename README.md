@@ -208,6 +208,8 @@ Timing Point   Flags   Arc   Edge   Cell     Fanout Load Trans Delay Arrival Ins
   count_reg[2]/D <<<     -     R     DFFQX1         1    -     -     0    1106    (-,-) 
   
 ---------------------------------------------------------------------------------------
+
+
 ## Result: 
 The generic netlist has been created, and area, power, and timing reports have been tabulated and generated using Genus.
 
